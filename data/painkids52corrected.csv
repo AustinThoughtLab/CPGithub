@@ -1,0 +1,344 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q.d1,Q.condition,Q.participant#,Q.sex,Q0p,Q0.5p_1,q0p1.5,q0p1.5_1,Q00p,Q00.5p_1,Q1,Q1.5_1,Q2,Q2.5_1,Q3,Q3.5_1,Q4,Q4.5_1,Q5,Q5.5_1,Q6,Q6.5_1,Q7,Q7.5_1,Q8,Q8.5_1,Qc1,Qc1.5_1,Qc2,Qc2.5_1,Qc3,Qc3.5_1,Qc4,Qc4.5_1,Q9,Q9.5_1,Q10,Q10.5_1,Q11,Q11.5_1,Q12,Q12.5_1,Q13,Q13.5_1,Q14,Q14.5_1,Q15,Q15.5_1,Q16,Q16.5_1,Q17,Q17.5_1,Q18,Q18.5_1,Q19,Q19.5_1,Q20,Q20.5_1,Q21,Q21.5_1,Q22,Q22.5_1,Q23,Q23.5_1,Q24,Q24.5_1,Q25,Q25.5_1,Q26,Q26.5_1,Q27,Q27.5_1,Q28,Q28.5_1,Q29,Q29.5_1,Q30,Q30.5_1,Q31,Q31.5_1,Q32,Q32.5_1,Q33,Q33.5_1,Q34,Q34.5_1,Q35,Q35.5_1,Q36,Q36.5_1,Q37,Q37.5_1,Q38,Q38.5_1,Q39,Q39.5_1,Q40,Q40.5_1,Q41,Q41.5_1,Q42,Q42.5_1,Q43,Q43.5_1,Q44,Q44.5_1,Q45,Q45.5_1,Q46,Q46.5_1,Q47,Q47.5_1,Q48,Q48.5_1,Q49,Q49.5_1,Q50,Q50.5_1,Q51,Q51.5_1,Q52,Q52.5_1,Q53,Q53.5_1,Q54,Q54.5_1,Q55,Q55.5_1,Q56,Q56.5_1,Q57,Q57.5_1,Q58,Q58.5_1,Q59,Q59.5_1,Q60,Q60.5_1,Q61,Q61.5_1,Q62,Q62.5_1,Q63,Q63.5_1,Q64,Q64.5_1,Q383,Q383_2_TEXT,Q383_3_TEXT,Q381,1,2,3,4,5,6,7,8,mturkcode
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Did you fill out the consent and demographics forms?,select condition,enter participant number,participant sex,"""Hi, my name is Caleb! I was playing soccer, and when I turned I sprained my ankle. 
+
+ 
+
+ Do you think that hurt me?""","""How much do you think it hurt me?""","""Hi, my name is Jordan! I was walking down the street and a car passed by. 
+
+ 
+
+ Do you think that hurt me?""","""How much do you think it hurt me?""","""Hi, my name is Taylor! I was hammering a nail into the wall, and I accidentally hit my thumb with the hammer. 
+
+ 
+
+ Do you think that hurt me?""","""How much do you think it hurt me?""
+
+​​​​​​​","""Hi, my name is Rachel! I had soup for dinner, and when I took a bite it burned my tongue.
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Sydney! I was riding my bike, and then I fell and broke my arm.
+
+Do you think that hurt me?""",“How much do you think it hurt me?”​​​​​​​,"""Hi, my name is David! I was eating lunch with my friend, and then my stomach started to ache.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Kyle! I was choosing paper to draw on, and then I got a paper-cut on my finger.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Marissa! I was running on the sidewalk, and then I fell and skinned my knees.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Jessica! I was playing catch with my friend, but then the ball hit me in the leg and bruised me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Chris! When I climbed over a fence outside, I got a splinter.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Tyler! I was at the park when a bee landed on my arm, and it stung me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Adam! I drew a picture and then put it on the table.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Anthony! Last night I got into my bed and I fell asleep.
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Courtney! I threw a ball and it landed in the grass.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Mia! I took a book off of the shelf and I read it.
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi my name is Rachel! I was choosing paper to draw on, and then I got a paper-cut on my finger.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Sydney! I was playing outside and when I climbed over a fence, I got a splinter.
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is David! I was playing catch with my friend, but then the ball hit me in the leg and bruised me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Kyle! I had soup for dinner, and when I took a bite it burned my tongue.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Marissa! I was eating lunch with my friend, and then my stomach started to ache.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Jessica! I was at the park when a bee landed on my arm, and it stung me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Chris! I was riding my bike, and then I fell and broke my arm.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Tyler! I was running on the sidewalk, and then I fell and skinned my knees.""
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Rachel! I was running on the sidewalk, and then I fell and skinned my knees.""
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Sydney! I was playing catch with my friend, but then the ball hit me in the leg and bruised me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is David! I was at the park when a bee landed on my arm, and it stung me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Kyle! When I climbed over a fence outside, I got a splinter.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Marissa! I was choosing paper to draw on, and then I got a paper-cut on my finger.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Jessica! I was riding my bike, and then I fell and broke my arm.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Chris! I had soup for dinner, and when I took a bite it burned my tongue.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Tyler! I was eating lunch with my friend, and then my stomach started to ache.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Rachel! I was at the park when a bee landed on my arm, and it stung me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Sydney! I was eating lunch with my friend, and then my stomach started to ache.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is David! I was riding my bike, and then I fell and broke my arm.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Kyle! I was running on the sidewalk, and then I fell and skinned my knees.""
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Marissa! When I climbed over a fence outside, I got a splinter.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Jessica! I had soup for dinner, and when I took a bite it burned my tongue.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Chris! I was playing catch with my friend, but then the ball hit me in the leg and bruised me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Tyler! I was choosing paper to draw on, and then I got a paper-cut on my finger.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Rachel! I was eating lunch with my friend, and then my stomach started to ache.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Sydney! I had soup for dinner, and when I took a bite it burned my tongue.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is David! When I climbed over a fence outside, I got a splinter.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Kyle! I was at the park when a bee landed on my arm, and it stung me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Marissa! I was playing catch with my friend, but then the ball hit me in the leg and bruised me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Jessica! I was running on the sidewalk, and then I fell and skinned my knees.""
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Chris! I was choosing paper to draw on, and then I got a paper-cut on my finger.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Tyler! I was riding my bike, and then I fell and broke my arm.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Rachel! I was playing catch with my friend, but then the ball hit me in the leg and bruised me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Sydney! I was running on the sidewalk, and then I fell and skinned my knees.""
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is David! I had soup for dinner, and when I took a bite it burned my tongue.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Kyle! I was eating lunch with my friend, and then my stomach started to ache.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Marissa! I was riding my bike, and then I fell and broke my arm.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Jessica! I was choosing paper to draw on, and then I got a paper-cut on my finger.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Chris! I was at the park when a bee landed on my arm, and it stung me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Tyler! When I climbed over a fence outside, I got a splinter.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Rachel! I was riding my bike, and then I fell and broke my arm.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Sydney! I was choosing paper to draw on, and then I got a paper-cut on my finger.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is David! I was running on the sidewalk, and then I fell and skinned my knees.""
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Kyle! I was playing catch with my friend, but then the ball hit me in the leg and bruised me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Marissa! I was at the park when a bee landed on my arm, and it stung me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Jessica! When I climbed over a fence outside, I got a splinter.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Chris! I was eating lunch with my friend, and then my stomach started to ache.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Tyler! I had soup for dinner, and when I took a bite it burned my tongue.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Rachel! When I climbed over a fence outside, I got a splinter.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Sydney! I was at the park when a bee landed on my arm, and it stung me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is David! I was choosing paper to draw on, and then I got a paper-cut on my finger.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Kyle! I was riding my bike, and then I fell and broke my arm.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Marissa! I had soup for dinner, and when I took a bite it burned my tongue.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Jessica! I was eating lunch with my friend, and then my stomach started to ache.
+
+
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"""Hi, my name is Chris! I was running on the sidewalk, and then I fell and skinned my knees. 
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"“Hi, my name is Tyler! I was playing catch with my friend, but then the ball hit me in the leg and bruised me.
+
+ 
+
+Do you think that hurt me?""",“How much do you think it hurt me?”,"should this be excluded? (e.g., did they never respond? never choose a rating? ask to end early?) - Selected Choice","should this be excluded? (e.g., did they never respond? never choose a rating? ask to end early?) - yes - Text","should this be excluded? (e.g., did they never respond? never choose a rating? ask to end early?) - unsure - Text",which of these have you experienced?,1,2,3,4,5,6,7,8,mturkcode
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID375""}","{""ImportId"":""QID376""}","{""ImportId"":""QID380_TEXT""}","{""ImportId"":""QID384""}","{""ImportId"":""QID367""}","{""ImportId"":""QID369_1""}","{""ImportId"":""QID373""}","{""ImportId"":""QID374_1""}","{""ImportId"":""QID370""}","{""ImportId"":""QID371_1""}","{""ImportId"":""QID2""}","{""ImportId"":""QID167_1""}","{""ImportId"":""QID5""}","{""ImportId"":""QID168_1""}","{""ImportId"":""QID7""}","{""ImportId"":""QID169_1""}","{""ImportId"":""QID9""}","{""ImportId"":""QID170_1""}","{""ImportId"":""QID11""}","{""ImportId"":""QID171_1""}","{""ImportId"":""QID13""}","{""ImportId"":""QID172_1""}","{""ImportId"":""QID15""}","{""ImportId"":""QID173_1""}","{""ImportId"":""QID17""}","{""ImportId"":""QID174_1""}","{""ImportId"":""QID19""}","{""ImportId"":""QID175_1""}","{""ImportId"":""QID21""}","{""ImportId"":""QID176_1""}","{""ImportId"":""QID23""}","{""ImportId"":""QID177_1""}","{""ImportId"":""QID25""}","{""ImportId"":""QID178_1""}","{""ImportId"":""QID27""}","{""ImportId"":""QID179_1""}","{""ImportId"":""QID29""}","{""ImportId"":""QID180_1""}","{""ImportId"":""QID31""}","{""ImportId"":""QID181_1""}","{""ImportId"":""QID33""}","{""ImportId"":""QID182_1""}","{""ImportId"":""QID35""}","{""ImportId"":""QID183_1""}","{""ImportId"":""QID37""}","{""ImportId"":""QID184_1""}","{""ImportId"":""QID39""}","{""ImportId"":""QID185_1""}","{""ImportId"":""QID41""}","{""ImportId"":""QID186_1""}","{""ImportId"":""QID43""}","{""ImportId"":""QID187_4""}","{""ImportId"":""QID46""}","{""ImportId"":""QID188_1""}","{""ImportId"":""QID56""}","{""ImportId"":""QID189_1""}","{""ImportId"":""QID58""}","{""ImportId"":""QID190_1""}","{""ImportId"":""QID64""}","{""ImportId"":""QID191_1""}","{""ImportId"":""QID65""}","{""ImportId"":""QID192_1""}","{""ImportId"":""QID66""}","{""ImportId"":""QID193_1""}","{""ImportId"":""QID67""}","{""ImportId"":""QID194_1""}","{""ImportId"":""QID68""}","{""ImportId"":""QID195_1""}","{""ImportId"":""QID71""}","{""ImportId"":""QID196_1""}","{""ImportId"":""QID72""}","{""ImportId"":""QID197_1""}","{""ImportId"":""QID74""}","{""ImportId"":""QID198_1""}","{""ImportId"":""QID76""}","{""ImportId"":""QID199_1""}","{""ImportId"":""QID79""}","{""ImportId"":""QID200_1""}","{""ImportId"":""QID80""}","{""ImportId"":""QID201_1""}","{""ImportId"":""QID82""}","{""ImportId"":""QID202_1""}","{""ImportId"":""QID84""}","{""ImportId"":""QID203_1""}","{""ImportId"":""QID86""}","{""ImportId"":""QID204_1""}","{""ImportId"":""QID88""}","{""ImportId"":""QID205_1""}","{""ImportId"":""QID90""}","{""ImportId"":""QID206_1""}","{""ImportId"":""QID92""}","{""ImportId"":""QID207_1""}","{""ImportId"":""QID94""}","{""ImportId"":""QID208_1""}","{""ImportId"":""QID96""}","{""ImportId"":""QID209_1""}","{""ImportId"":""QID98""}","{""ImportId"":""QID210_1""}","{""ImportId"":""QID100""}","{""ImportId"":""QID211_1""}","{""ImportId"":""QID102""}","{""ImportId"":""QID212_1""}","{""ImportId"":""QID104""}","{""ImportId"":""QID213_1""}","{""ImportId"":""QID106""}","{""ImportId"":""QID214_1""}","{""ImportId"":""QID108""}","{""ImportId"":""QID215_1""}","{""ImportId"":""QID110""}","{""ImportId"":""QID216_1""}","{""ImportId"":""QID112""}","{""ImportId"":""QID217_1""}","{""ImportId"":""QID114""}","{""ImportId"":""QID218_1""}","{""ImportId"":""QID116""}","{""ImportId"":""QID219_1""}","{""ImportId"":""QID118""}","{""ImportId"":""QID220_1""}","{""ImportId"":""QID120""}","{""ImportId"":""QID221_1""}","{""ImportId"":""QID122""}","{""ImportId"":""QID222_1""}","{""ImportId"":""QID124""}","{""ImportId"":""QID223_1""}","{""ImportId"":""QID126""}","{""ImportId"":""QID224_1""}","{""ImportId"":""QID128""}","{""ImportId"":""QID225_1""}","{""ImportId"":""QID130""}","{""ImportId"":""QID226_1""}","{""ImportId"":""QID132""}","{""ImportId"":""QID227_1""}","{""ImportId"":""QID134""}","{""ImportId"":""QID228_1""}","{""ImportId"":""QID136""}","{""ImportId"":""QID229_1""}","{""ImportId"":""QID138""}","{""ImportId"":""QID230_1""}","{""ImportId"":""QID140""}","{""ImportId"":""QID231_1""}","{""ImportId"":""QID142""}","{""ImportId"":""QID232_1""}","{""ImportId"":""QID144""}","{""ImportId"":""QID233_1""}","{""ImportId"":""QID146""}","{""ImportId"":""QID234_1""}","{""ImportId"":""QID383""}","{""ImportId"":""QID383_2_TEXT""}","{""ImportId"":""QID383_3_TEXT""}","{""ImportId"":""QID381""}","{""ImportId"":""1""}","{""ImportId"":""2""}","{""ImportId"":""3""}","{""ImportId"":""4""}","{""ImportId"":""5""}","{""ImportId"":""6""}","{""ImportId"":""7""}","{""ImportId"":""8""}","{""ImportId"":""mturkcode""}"
+2022-04-06 14:32:46,2022-04-06 14:39:08,IP Address,128.62.41.251,100,381,True,2022-04-06 14:39:08,R_1mRgH4KBUBUAOQn,,,,,30.28869999999999862438926356844604015350341796875,-97.73980000000000245563569478690624237060546875,anonymous,EN,yes,1,4.1.4,,yes,5,no,,yes,7,yes,2,yes,6,no,,no,,yes,3,no,,yes,5,yes,2,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-06 14:41:29,2022-04-06 15:03:26,IP Address,128.62.41.251,100,1316,True,2022-04-06 15:03:26,R_2t4450Mim0HRzH3,,,,,30.28869999999999862438926356844604015350341796875,-97.73980000000000245563569478690624237060546875,anonymous,EN,yes,2,4.2.1,,yes,5,no,,yes,2,,,,,,,,,,,,,,,,,no,,no,,no,,no,,yes,2,yes,6,yes,3,yes,4,no,,no,,yes,7,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-06 15:04:59,2022-04-06 15:13:50,IP Address,128.62.41.251,100,531,True,2022-04-06 15:13:51,R_3ekx6J5E7O4la5g,,,,,30.28869999999999862438926356844604015350341796875,-97.73980000000000245563569478690624237060546875,anonymous,EN,yes,3,4.3.1,,yes,5,no,,no,,,,,,,,,,,,,,,,,,yes,7,no,,no,,no,,,,,,,,,,,,,,,,,,yes,7,yes,1,yes,4,yes,7,yes,4,yes,7,yes,2,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-07 09:31:46,2022-04-07 09:41:51,IP Address,128.62.46.29,100,605,True,2022-04-07 09:41:52,R_1hVZ8tFWXmIpuVu,,,,,30.28869999999999862438926356844604015350341796875,-97.73980000000000245563569478690624237060546875,anonymous,EN,yes,4,4.4.1,,yes,5,no,,yes,4,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,3,yes,1,yes,5,yes,2,yes,1,yes,1,yes,1,yes,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"splinter,bruised leg",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-07 09:49:03,2022-04-07 09:54:39,IP Address,128.62.46.29,100,336,True,2022-04-07 09:54:40,R_2rVkxOdP0qLUXF2,,,,,30.28869999999999862438926356844604015350341796875,-97.73980000000000245563569478690624237060546875,anonymous,EN,yes,5,4.5.1 [excluded],,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,yes,3,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,4,yes,7,yes,7,yes,7,yes,4,yes,7,yes,7,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,bruised leg,,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-07 09:58:06,2022-04-07 10:03:46,IP Address,128.62.46.29,100,339,True,2022-04-07 10:03:46,R_2PjlBUSIt3YWa0P,,,,,30.28869999999999862438926356844604015350341796875,-97.73980000000000245563569478690624237060546875,anonymous,EN,yes,6,4.6.1,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,5,yes,1,yes,2,yes,7,yes,7,yes,7,yes,4,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"skinned knees,bruised leg",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-06 15:15:08,2022-04-13 12:18:27,IP Address,128.62.47.255,100,594198,True,2022-04-13 12:18:27,R_5nJl8YrmWVjS3Yd,,,,,30.2887,-97.7398,anonymous,EN,yes,7,5.7.1,,yes,5,no,,yes,4,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,5,yes,2,yes,3,yes,3,yes,4,yes,2,yes,3,yes,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-13 12:21:23,2022-04-13 12:42:59,IP Address,128.62.47.255,100,1295,True,2022-04-13 12:42:59,R_1kGDeB45pxtJZEI,,,,,30.2887,-97.7398,anonymous,EN,yes,8,4.8.1 [excluded],,yes,5,no,,yes,1,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,yes,1,no,,no,,no,,no,,no,,no,,,,,stomach ache,,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-18 08:12:05,2022-04-18 08:42:11,IP Address,128.62.32.211,100,1806,True,2022-04-18 08:42:11,R_3JKuDF82k1MKHmh,,,,,30.2304,-97.7243,anonymous,EN,yes,7,4.7.1,,yes,5,no,,yes,1,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,7,yes,5,yes,1,yes,2,yes,1,yes,7,yes,7,yes,7,,,,,,,,,,,,,,,,,,,,"broken bone,burned tongue,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-18 08:43:02,2022-04-18 08:50:53,IP Address,128.62.32.211,100,471,True,2022-04-18 08:50:54,R_3qKZGsA3iPNQONP,,,,,30.2304,-97.7243,anonymous,EN,yes,1,5.1.1,,yes,5,no,,yes,4,yes,1,yes,7,yes,7,no,,yes,4,yes,1,yes,5,yes,6,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"splinter,skinned knees,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-18 08:52:29,2022-04-18 09:03:54,IP Address,128.62.32.211,100,684,True,2022-04-18 09:03:54,R_3LdkWJYJIdbRO7r,,,,,30.2304,-97.7243,anonymous,EN,yes,2,5.2.1,,yes,5,no,,yes,3,,,,,,,,,,,,,,,,,no,,no,,no,,no,,yes,7,yes,7,yes,1,yes,4,yes,1,yes,7,yes,7,yes,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"splinter,skinned knees,burned tongue,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-18 09:06:43,2022-04-18 09:18:18,IP Address,128.62.32.211,100,694,True,2022-04-18 09:18:19,R_2rUQjkTdmrQCtl1,,,,,30.2304,-97.7243,anonymous,EN,yes,3,5.3.1,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,yes,5,no,,yes,7,yes,2,yes,5,yes,7,yes,4,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"splinter,burned tongue,bruised leg",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-18 09:23:12,2022-04-18 09:31:41,IP Address,128.62.32.211,100,509,True,2022-04-18 09:31:43,R_1ezNSIMZ0jzXZxs,,,,,30.2304,-97.7243,anonymous,EN,yes,5,5.5.1,,yes,5,no,,yes,6,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,yes,7,yes,6,yes,7,yes,2,yes,1,yes,5,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"paper cut,splinter,skinned knees,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-18 10:27:02,2022-04-18 10:32:28,IP Address,128.62.32.211,100,326,True,2022-04-18 10:32:29,R_3HOJ876prYQdNzj,,,,,30.2304,-97.7243,anonymous,EN,yes,5,5.5.5,,yes,5,no,,yes,3,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,no,,no,,yes,1,no,,yes,7,yes,1,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"splinter,bruised leg",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-18 10:36:05,2022-04-18 10:44:08,IP Address,128.62.32.211,100,483,True,2022-04-18 10:44:09,R_1GVrvJjT4ORqJt3,,,,,30.2304,-97.7243,anonymous,EN,yes,1,4.1.2,,yes,5,no,,yes,6,yes,7,yes,7,yes,6,yes,7,yes,6,yes,7,no,,yes,7,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"broken bone,skinned knees,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-18 10:46:55,2022-04-18 10:54:54,IP Address,128.62.32.211,100,478,True,2022-04-18 10:54:55,R_2aXLkNUQiCCRmsf,,,,,30.2304,-97.7243,anonymous,EN,yes,4,4.4.3,,yes,5,no,,yes,4,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,yes,1,yes,4,yes,3,yes,3,yes,1,yes,2,yes,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-22 09:10:42,2022-04-22 09:35:22,IP Address,128.62.47.225,100,1479,True,2022-04-22 09:35:23,R_vw7JRoxIN5qU8EN,,,,,30.2887,-97.7398,anonymous,EN,yes,4,4.4.2,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,7,yes,6,yes,7,yes,4,yes,3,yes,7,yes,5,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"splinter,skinned knees,bee sting,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-22 09:56:52,2022-04-22 11:20:34,IP Address,128.62.47.225,100,5021,True,2022-04-22 11:20:35,R_2qrATMNLLMSDZPy,,,,,30.2887,-97.7398,anonymous,EN,yes,4,4.4.2 [excluded],,yes,5,no,,no,,,,,,,,,,,,,,,,,,yes,1,no,,no,,yes,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,no,,no,,no,,yes,1,yes,1,yes,7,yes,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,paper cut,,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-23 11:48:58,2022-04-23 12:11:03,IP Address,128.62.32.146,100,1324,True,2022-04-23 12:11:03,R_1d5ZBJmXIf4Q6nE,,,,,30.2887,-97.7398,anonymous,EN,yes,8,4.8.1,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,1,yes,6,no,,yes,1,yes,1,no,,no,,no,,unsure,,,"splinter,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-23 12:27:56,2022-04-23 14:14:24,IP Address,128.62.32.146,100,6388,True,2022-04-23 14:14:26,R_1otXg9So0SGWPzv,,,,,30.2887,-97.7398,anonymous,EN,yes,8,5.8.1,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,yes,5,yes,4,yes,6,yes,3,yes,4,yes,5,yes,4,no,,,"bee sting,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-25 08:02:11,2022-04-25 08:28:39,IP Address,128.62.38.74,100,1588,True,2022-04-25 08:28:40,R_1KpeToPtyqT4b6N,,,,,30.3075,-97.7271,anonymous,EN,yes,3,4.3.2,,yes,5,no,,yes,4,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,yes,4,yes,1,yes,3,yes,7,no,,yes,5,yes,4,yes,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"splinter,skinned knees,burned tongue,bruised leg",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-25 08:32:42,2022-04-25 08:43:33,IP Address,128.62.38.74,100,650,True,2022-04-25 08:43:34,R_3Oodzp2Lu8Kx9lh,,,,,30.3075,-97.7271,anonymous,EN,yes,6,5.6.1,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,1,yes,7,yes,4,yes,4,yes,4,yes,7,yes,6,yes,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter,skinned knees,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-25 08:46:17,2022-04-25 08:59:41,IP Address,128.62.38.74,100,804,True,2022-04-25 08:59:42,R_9FfKyLVtFaGVvUt,,,,,30.3075,-97.7271,anonymous,EN,yes,1,5.1.2,,yes,5,no,,yes,6,yes,6,yes,6,yes,1,yes,3,yes,6,yes,3,yes,1,yes,7,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"splinter,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-25 09:08:59,2022-04-25 09:13:52,IP Address,128.62.38.74,100,292,True,2022-04-25 09:13:53,R_1gdYccqimZY1T3T,,,,,30.3075,-97.7271,anonymous,EN,yes,2,5.2.2,,yes,5,no,,yes,6,,,,,,,,,,,,,,,,,no,,no,,no,,no,,yes,2,yes,4,yes,5,yes,3,yes,3,yes,5,yes,7,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter,skinned knees,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-26 12:27:42,2022-04-26 12:47:08,IP Address,128.62.47.152,100,1165,True,2022-04-26 12:47:09,R_2qatMBNSwx7irBy,,,,,30.2887,-97.7398,anonymous,EN,yes,3,5.3.2,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,yes,3,yes,2,yes,4,yes,4,yes,1,yes,7,yes,1,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,splinter,,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-26 12:52:49,2022-04-26 12:58:54,IP Address,128.62.47.152,100,365,True,2022-04-26 12:58:55,R_ymqzjWwDHYpMciB,,,,,30.2887,-97.7398,anonymous,EN,yes,5,4.5.2,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,5,yes,6,yes,7,yes,7,yes,7,yes,4,yes,1,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,skinned knees,,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-26 13:03:14,2022-04-26 13:19:53,IP Address,128.62.47.152,100,998,True,2022-04-26 13:19:54,R_3LhYcqUPORY0HLu,,,,,30.2887,-97.7398,anonymous,EN,yes,4,5.4.2,,yes,4,no,,yes,5,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,6,yes,6,yes,7,yes,3,yes,4,yes,5,yes,2,yes,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"splinter,skinned knees,bee sting,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-26 13:20:48,2022-04-26 13:30:54,IP Address,128.62.47.152,100,606,True,2022-04-26 13:30:55,R_2wb2FIAmlcfsy9F,,,,,30.2887,-97.7398,anonymous,EN,yes,6,4.6.2,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,7,yes,3,no,,no,,yes,5,yes,6,yes,3,yes,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"splinter,bruised leg",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-26 13:32:02,2022-04-26 13:43:45,IP Address,128.62.47.152,100,702,True,2022-04-26 13:43:45,R_1ln4TJBHbEbT9Wu,,,,,30.2887,-97.7398,anonymous,EN,yes,7,4.7.2,,yes,5,no,,yes,5,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,6,yes,6,yes,6,yes,6,yes,3,yes,5,yes,3,yes,7,,,,,,,,,,,,,,,,,no,,,"skinned knees,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-26 13:52:53,2022-04-26 13:57:45,IP Address,128.62.47.152,100,292,True,2022-04-26 13:57:46,R_3lxZxxZ0arR8EhA,,,,,30.2887,-97.7398,anonymous,EN,yes,8,4.8.3,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,7,no,,yes,1,yes,1,no,,no,,no,,no,,unsure,,,"splinter,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-28 12:38:08,2022-04-28 12:50:05,IP Address,128.62.45.223,100,717,True,2022-04-28 12:50:05,R_1lAAc4HiFZiGPKt,,,,,30.2887,-97.7398,anonymous,EN,yes,8,4.8.2,,yes,5,no,,yes,3,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,4,yes,4,yes,3,yes,7,yes,6,yes,2,yes,6,yes,4,no,,,"paper cut,skinned knees,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-28 12:53:40,2022-04-28 12:59:43,IP Address,128.62.45.223,100,362,True,2022-04-28 12:59:43,R_OQ1dH9QufEsOnKh,,,,,30.2887,-97.7398,anonymous,EN,yes,5,5.5.2,,yes,5,no,,yes,4,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,3,yes,1,yes,2,yes,6,yes,5,yes,1,yes,2,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter,skinned knees,bee sting,burned tongue,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-28 13:00:16,2022-04-28 13:13:20,IP Address,128.62.45.223,100,783,True,2022-04-28 13:13:21,R_2tziKzhSpqoOdVw,,,,,30.2887,-97.7398,anonymous,EN,yes,5,5.5.3,,yes,5,no,,yes,4,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,1,yes,4,yes,4,yes,6,yes,2,yes,3,yes,3,yes,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter,skinned knees,bee sting,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-04-28 13:17:21,2022-04-28 13:25:17,IP Address,128.62.45.223,100,475,True,2022-04-28 13:25:17,R_3nV6cdtLL6qoI4z,,,,,30.2887,-97.7398,anonymous,EN,yes,3,4.3.2e [excluded],,yes,5,no,,yes,1,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,no,,no,,no,,no,,no,,yes,1,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,skinned knees,,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-05-07 07:51:03,2022-05-07 08:28:01,IP Address,128.62.45.131,100,2218,True,2022-05-07 08:28:02,R_3ef2HDAADlscAVY,,,,,30.2887,-97.7398,anonymous,EN,yes,8,7.8.1,,yes,5,no,,yes,4,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,7,yes,7,yes,5,yes,7,yes,6,yes,6,yes,6,yes,1,no,,,"paper cut,bee sting,bruised leg",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-05-07 08:28:37,2022-05-07 08:47:52,IP Address,128.62.45.131,100,1154,True,2022-05-07 08:47:53,R_11YdTdA9CTzDbOt,,,,,30.2887,-97.7398,anonymous,EN,yes,8,5.8.2,,yes,5,no,,yes,3,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,4,yes,5,yes,2,yes,3,no,,no,,yes,6,yes,4,no,,,"skinned knees,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-05-31 08:48:21,2022-05-31 08:58:03,IP Address,128.62.33.233,100,581,True,2022-05-31 08:58:03,R_1d5EhQru46vWCzw,,,,,30.2887,-97.7398,anonymous,EN,yes,3,4.3.2ee [excluded],,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,yes,3,no,,no,,no,,,,,,,,,,,,,,,,,,yes,6,yes,1,yes,4,yes,5,yes,2,yes,3,no,,yes,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,unsure,,,stomach ache,,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-01 08:39:59,2022-06-01 08:46:38,IP Address,128.62.39.58,100,399,True,2022-06-01 08:46:38,R_1IQwnD33wQZ2erx,,,,,30.3075,-97.7271,anonymous,EN,yes,6,5.6.2,,yes,5,no,,yes,4,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,4,yes,3,yes,5,no,,yes,7,yes,4,yes,4,yes,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,broken bone,splinter,bee sting,bruised leg",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-01 12:05:27,2022-06-01 13:06:52,IP Address,128.62.39.58,100,3685,True,2022-06-01 13:06:54,R_ToOXBa3Zt3mKiEV,,,,,30.3075,-97.7271,anonymous,EN,yes,7,5.7.2,,yes,5,no,,yes,4,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,7,yes,3,yes,6,yes,1,yes,5,yes,2,no,,no,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter,skinned knees,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-02 10:49:03,2022-06-02 11:41:30,IP Address,128.62.39.58,100,3147,True,2022-06-02 11:41:31,R_AHRtANfQh7We87v,,,,,30.3075,-97.7271,anonymous,EN,yes,4,5.4.1,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,7,no,,yes,6,yes,5,yes,3,yes,6,yes,7,yes,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"skinned knees,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-03 11:49:47,2022-06-03 12:04:03,IP Address,128.62.36.80,100,855,True,2022-06-03 12:04:03,R_ePZVJZU6abQN1DP,,,,,30.2887,-97.7398,anonymous,EN,yes,1,6.1.1,,yes,5,no,,yes,6,no,,yes,7,no,,yes,2,yes,1,yes,2,yes,4,yes,3,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter,skinned knees,bee sting,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-06 09:13:32,2022-06-06 09:38:48,IP Address,128.62.36.133,100,1516,True,2022-06-06 09:38:49,R_01eHEKxVq6qj2Kd,,,,,30.2887,-97.7398,anonymous,EN,yes,1,5.1.3,,yes,5,no,,yes,4,no,,yes,7,no,,yes,4,yes,5,no,,no,,yes,4,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter,skinned knees,burned tongue,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-06 09:39:31,2022-06-06 09:46:58,IP Address,128.62.36.133,100,447,True,2022-06-06 09:46:59,R_2ZIlKJSRhFlxeuK,,,,,30.2887,-97.7398,anonymous,EN,yes,5,5.5.4,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,7,yes,1,yes,7,yes,7,yes,5,yes,4,yes,4,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter,skinned knees,bee sting,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-07 08:19:55,2022-06-07 09:03:38,IP Address,128.62.35.155,100,2622,True,2022-06-07 09:03:39,R_O8plGbvPFOkYmyd,,,,,30.2887,-97.7398,anonymous,EN,yes,2,6.2.1,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,yes,3,yes,2,yes,4,yes,6,yes,2,yes,7,yes,7,yes,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,broken bone,splinter,skinned knees,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-07 09:18:59,2022-06-07 10:13:00,IP Address,128.62.35.155,100,3240,True,2022-06-07 10:13:01,R_24isbcGgxH8Bp6n,,,,,30.2887,-97.7398,anonymous,EN,yes,5,4.5.1,,yes,5,no,,yes,1,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,2,yes,4,yes,7,yes,7,yes,1,yes,1,yes,1,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,skinned knees,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-15 08:29:32,2022-06-15 08:44:09,IP Address,128.62.49.183,100,876,True,2022-06-15 08:44:10,R_2ZQdtymNDGXcBL2,,,,,30.2887,-97.7398,anonymous,EN,yes,5,4.5.1 [excluded],,yes,5,no,,no,,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,no,,yes,3,yes,7,yes,7,yes,4,yes,1,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,"paper cut,splinter,skinned knees,bee sting,burned tongue,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-15 15:43:57,2022-06-15 16:11:20,IP Address,128.62.42.150,100,1643,True,2022-06-15 16:11:21,R_3MDWlQ32W5MZ4hy,,,,,30.2887,-97.7398,anonymous,EN,yes,1,4.1.1,,yes,5,no,,yes,4,yes,4,yes,4,yes,4,yes,4,yes,4,yes,4,yes,4,yes,4,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,unsure,,,"splinter,skinned knees,bee sting,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-17 08:33:18,2022-06-17 09:08:30,IP Address,128.62.32.87,100,2111,True,2022-06-17 09:08:31,R_1jO3tyg6rZieqvi,,,,,30.2887,-97.7398,anonymous,EN,yes,3,6.3.1,,yes,5,no,,yes,6,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,yes,2,yes,1,yes,6,yes,3,yes,4,yes,7,yes,1,yes,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter,skinned knees,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-17 09:26:46,2022-06-17 09:37:15,IP Address,128.62.32.87,100,628,True,2022-06-17 09:37:16,R_3NvQkbomn3PaNqO,,,,,30.2887,-97.7398,anonymous,EN,yes,2,4.2.2,,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,yes,3,no,,yes,2,yes,4,yes,6,yes,7,yes,5,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,broken bone,splinter,skinned knees,bee sting,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-17 10:11:46,2022-06-17 10:34:41,IP Address,128.62.32.87,100,1375,True,2022-06-17 10:34:43,R_2th4erzGGMdFR29,,,,,30.2887,-97.7398,anonymous,EN,yes,4,6.4.1,,yes,5,no,,yes,5,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,2,yes,1,yes,7,no,,yes,1,no,,no,,yes,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"splinter,skinned knees,bruised leg",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-20 08:06:48,2022-06-20 08:24:26,IP Address,128.62.46.66,100,1057,True,2022-06-20 08:24:27,R_yxe2xo6xZoWy4tr,,,,,30.2887,-97.7398,anonymous,EN,yes,1,4.1.3 [excluded; already tested],Male,yes,5,no,,yes,7,yes,1,yes,6,yes,4,yes,3,yes,2,yes,1,yes,7,yes,7,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,broken bone,splinter,skinned knees,bee sting,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-20 08:26:54,2022-06-20 08:38:31,IP Address,128.62.46.66,100,697,True,2022-06-20 08:38:31,R_2U48AKHHiXvehsZ,,,,,30.2887,-97.7398,anonymous,EN,yes,2,5.2.3,Female,yes,5,no,,yes,3,,,,,,,,,,,,,,,,,no,,no,,no,,no,,yes,4,yes,5,yes,4,yes,2,no,,yes,6,yes,5,yes,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-20 08:40:58,2022-06-20 08:52:55,IP Address,128.62.46.66,100,717,True,2022-06-20 08:52:56,R_3MtFxv6P23eYrTb,,,,,30.2887,-97.7398,anonymous,EN,yes,5,6.5.1,Male,yes,5,no,,yes,6,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,2,yes,7,yes,4,no,,yes,4,yes,2,yes,6,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter,bee sting,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-20 08:56:25,2022-06-20 09:05:57,IP Address,128.62.46.66,100,572,True,2022-06-20 09:05:58,R_2uPTuhj8fzkpXRx,,,,,30.2887,-97.7398,anonymous,EN,yes,3,5.3.3,Male,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,no,,no,,yes,7,yes,7,yes,1,yes,1,no,,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,unsure,,,"broken bone,burned tongue,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-20 09:08:50,2022-06-22 08:38:35,IP Address,128.62.39.198,100,170984,True,2022-06-22 08:38:35,R_3OpPNVu3aZJD6SZ,,,,,30.3075,-97.7271,anonymous,EN,yes,4,5.4.3 [excluded],Female,yes,5,no,,yes,4,,,,,,,,,,,,,,,,,no,,no,,yes,1,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,4,yes,1,yes,7,yes,1,yes,4,yes,2,yes,4,yes,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"splinter,skinned knees,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-24 08:10:30,2022-06-24 08:21:02,IP Address,128.62.16.251,100,632,True,2022-06-24 08:21:02,R_27J8GArsdTS1mOI,,,,,30.2887,-97.7398,anonymous,EN,yes,1,4.1.3,Female,yes,5,no,,yes,6,no,,yes,7,no,,no,,yes,6,yes,5,yes,6,yes,7,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"skinned knees,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-24 08:21:20,2022-06-24 08:26:24,IP Address,128.62.16.251,100,303,True,2022-06-24 08:26:25,R_1kL9NndX5KzfaFU,,,,,30.2887,-97.7398,anonymous,EN,yes,1,7.1.1,Female,yes,5,no,,yes,6,yes,2,yes,7,yes,5,yes,3,yes,7,yes,3,yes,4,yes,6,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter,skinned knees,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-26 11:54:47,2022-06-26 12:09:07,IP Address,128.62.16.154,100,860,True,2022-06-26 12:09:08,R_1ghZXQKFeI34hV9,,,,,30.2887,-97.7398,anonymous,EN,yes,4,5.4.3,Female,yes,5,no,,yes,6,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,3,no,,yes,7,yes,4,yes,4,no,,no,,yes,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,skinned knees,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-06-26 12:22:58,2022-06-26 12:31:42,IP Address,128.62.16.154,100,523,True,2022-06-26 12:31:43,R_2zusRB8tkDNmQTl,,,,,30.2887,-97.7398,anonymous,EN,yes,2,4.2.3 [excluded],Male,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,yes,7,no,,no,,no,,yes,7,yes,7,yes,7,yes,7,yes,7,yes,7,yes,7,yes,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,said yes to control; freshly 4 so makes sense,,"paper cut,skinned knees,bee sting,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-07-01 08:13:05,2022-07-01 08:34:40,IP Address,128.62.41.40,100,1295,True,2022-07-01 08:34:41,R_3iVjRjALo7ZTmEZ,,,,,30.2887,-97.7398,anonymous,EN,yes,2,4.2.3,Female,yes,5,no,,no,,,,,,,,,,,,,,,,,,no,,no,,no,,no,,yes,1,yes,7,yes,7,no,,yes,7,yes,7,yes,7,yes,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,unsure,,,"paper cut,skinned knees,burned tongue,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-07-01 08:38:34,2022-07-01 08:48:55,IP Address,128.62.41.40,100,620,True,2022-07-01 08:48:56,R_3hmcvKpaAGhzMgp,,,,,30.2887,-97.7398,anonymous,EN,yes,3,4.3.3 [excluded],Male,yes,5,no,,yes,2,,,,,,,,,,,,,,,,,no,,no,,no,,yes,1,,,,,,,,,,,,,,,,,no,,yes,1,no,,no,,yes,4,yes,1,no,,yes,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,unsure,,,none,,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-07-01 08:51:44,2022-07-01 09:00:51,IP Address,128.62.41.40,100,547,True,2022-07-01 09:00:52,R_07nlwPK7fHsoKZz,,,,,30.2887,-97.7398,anonymous,EN,yes,3,4.3.3,Male,yes,5,no,,yes,7,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,yes,6,yes,1,yes,6,yes,4,yes,5,yes,7,yes,6,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"splinter,skinned knees,burned tongue",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen
+2022-07-01 09:02:46,2022-07-01 09:14:35,IP Address,128.62.41.40,100,709,True,2022-07-01 09:14:36,R_2ZByvTSjSmlHoF4,,,,,30.2887,-97.7398,anonymous,EN,yes,6,5.6.3,Female,yes,5,no,,yes,1,,,,,,,,,,,,,,,,,no,,no,,no,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,yes,4,yes,1,no,,yes,4,yes,2,yes,3,yes,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,"paper cut,splinter,skinned knees,bee sting,burned tongue,bruised leg,stomach ache",,,,,,,,,Deprecated - Please Use: https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/advanced-elements/web-service/#WebServiceRandomNumbGen

@@ -1,0 +1,182 @@
+subject_ID,cp_age,cp_sex,cp_race,cp_inj_experienced,condition,rating,injury,character,race,age,sex
+4.1.1,4,F,,,1,2,soup,rachel,w,a,f
+4.1.1,4,F,,,1,6,broken arm,sydney,w,c,f
+4.1.1,4,F,,,1,0,stomach ache,david,w,a,m
+4.1.1,4,F,,,1,0,paper cut,kyle,w,c,m
+4.1.1,4,F,,,1,3,skinned knees,marissa,b,a,f
+4.1.1,4,F,,,1,0,bruised leg,jessica,b,c,f
+4.1.1,4,F,,,1,5,splinter,chris,b,a,m
+4.1.1,4,F,,,1,2,bee sting,tyler,b,c,m
+4.1.1,4,F,,,1,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+4.1.1,4,F,,,1,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+4.1.1,4,F,,,1,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+4.1.1,4,F,,,1,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+4.2.1,4,M,,,2,2,paper cut,rachel,w,a,f
+4.2.1,4,M,,,2,6,splinter,sydney,w,c,f
+4.2.1,4,M,,,2,3,bruised leg,david,w,a,m
+4.2.1,4,M,,,2,4,soup,kyle,w,c,m
+4.2.1,4,M,,,2,0,stomach ache,marissa,b,a,f
+4.2.1,4,M,,,2,0,bee sting,jessica,b,c,f
+4.2.1,4,M,,,2,7,broken arm,chris,b,a,m
+4.2.1,4,M,,,2,7,skinned knees,tyler,b,c,m
+4.2.1,4,M,,,2,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+4.2.1,4,M,,,2,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+4.2.1,4,M,,,2,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+4.2.1,4,M,,,2,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+4.3.1,4,M,,,3,7,skinned knees,rachel,w,a,f
+4.3.1,4,M,,,3,1,bruised leg,sydney,w,c,f
+4.3.1,4,M,,,3,4,bee sting,david,w,a,m
+4.3.1,4,M,,,3,7,splinter,kyle,w,c,m
+4.3.1,4,M,,,3,4,paper cut,marissa,b,a,f
+4.3.1,4,M,,,3,7,broken arm,jessica,b,c,f
+4.3.1,4,M,,,3,2,soup,chris,b,a,m
+4.3.1,4,M,,,3,7,stomach ache,tyler,b,c,m
+4.3.1,4,M,,,3,7,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+4.3.1,4,M,,,3,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+4.3.1,4,M,,,3,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+4.3.1,4,M,,,3,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+4.4.1,4,,,,4,3,bee sting,rachel,w,a,f
+4.4.1,4,,,,4,1,stomach ache,sydney,w,c,f
+4.4.1,4,,,,4,5,broken arm,david,w,a,m
+4.4.1,4,,,,4,2,skinned knees,kyle,w,c,m
+4.4.1,4,,,,4,1,splinter,marissa,b,a,f
+4.4.1,4,,,,4,1,soup,jessica,b,c,f
+4.4.1,4,,,,4,1,bruised leg,chris,b,a,m
+4.4.1,4,,,,4,5,paper cut,tyler,b,c,m
+4.4.1,4,,,,4,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+4.4.1,4,,,,4,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+4.4.1,4,,,,4,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+4.4.1,4,,,,4,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+4.5.1,4,,,,5,4,stomach ache,rachel,w,a,f
+4.5.1,4,,,,5,7,soup,sydney,w,c,f
+4.5.1,4,,,,5,7,splinter,david,w,a,m
+4.5.1,4,,,,5,7,bee sting,kyle,w,c,m
+4.5.1,4,,,,5,4,bruised leg,marissa,b,a,f
+4.5.1,4,,,,5,7,skinned knees,jessica,b,c,f
+4.5.1,4,,,,5,7,paper cut,chris,b,a,m
+4.5.1,4,,,,5,7,broken arm,tyler,b,c,m
+4.5.1,4,,,,5,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+4.5.1,4,,,,5,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+4.5.1,4,,,,5,3,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+4.5.1,4,,,,5,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+4.6.1,4,,,,6,5,bruised leg,rachel,w,a,f
+4.6.1,4,,,,6,1,skinned knees,sydney,w,c,f
+4.6.1,4,,,,6,2,soup,david,w,a,m
+4.6.1,4,,,,6,7,stomach ache,kyle,w,c,m
+4.6.1,4,,,,6,7,broken arm,marissa,b,a,f
+4.6.1,4,,,,6,7,paper cut,jessica,b,c,f
+4.6.1,4,,,,6,4,bee sting,chris,b,a,m
+4.6.1,4,,,,6,7,splinter,tyler,b,c,m
+4.6.1,4,,,,6,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+4.6.1,4,,,,6,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+4.6.1,4,,,,6,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+4.6.1,4,,,,6,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+5.1.1,5,,,,1,1,soup,rachel,w,a,f
+5.1.1,5,,,,1,7,broken arm,sydney,w,c,f
+5.1.1,5,,,,1,7,stomach ache,david,w,a,m
+5.1.1,5,,,,1,0,paper cut,kyle,w,c,m
+5.1.1,5,,,,1,4,skinned knees,marissa,b,a,f
+5.1.1,5,,,,1,1,bruised leg,jessica,b,c,f
+5.1.1,5,,,,1,5,splinter,chris,b,a,m
+5.1.1,5,,,,1,6,bee sting,tyler,b,c,m
+5.1.1,5,,,,1,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+5.1.1,5,,,,1,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+5.1.1,5,,,,1,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+4.1.2,5,,,,1,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+4.1.2,4,,,,1,7,soup,rachel,w,a,f
+4.1.2,4,,,,1,7,broken arm,sydney,w,c,f
+4.1.2,4,,,,1,6,stomach ache,david,w,a,m
+4.1.2,4,,,,1,7,paper cut,kyle,w,c,m
+4.1.2,4,,,,1,6,skinned knees,marissa,b,a,f
+4.1.2,4,,,,1,7,bruised leg,jessica,b,c,f
+4.1.2,4,,,,1,0,splinter,chris,b,a,m
+4.1.2,4,,,,1,7,bee sting,tyler,b,c,m
+4.1.2,4,,,,1,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+4.1.2,4,,,,1,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+4.1.2,4,,,,1,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+4.1.2,4,,,,1,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+5.2.1,5,,,,2,7,paper cut,rachel,w,a,f
+5.2.1,5,,,,2,7,splinter,sydney,w,c,f
+5.2.1,5,,,,2,1,bruised leg,david,w,a,m
+5.2.1,5,,,,2,4,soup,kyle,w,c,m
+5.2.1,5,,,,2,1,stomach ache,marissa,b,a,f
+5.2.1,5,,,,2,7,bee sting,jessica,b,c,f
+5.2.1,5,,,,2,7,broken arm,chris,b,a,m
+5.2.1,5,,,,2,3,skinned knees,tyler,b,c,m
+5.2.1,5,,,,2,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+5.2.1,5,,,,2,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+5.2.1,5,,,,2,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+5.2.1,5,,,,2,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+4.2.2,4,,,,2,0,paper cut,rachel,w,a,f
+4.2.2,4,,,,2,1,splinter,sydney,w,c,f
+4.2.2,4,,,,2,4,bruised leg,david,w,a,m
+4.2.2,4,,,,2,3,soup,kyle,w,c,m
+4.2.2,4,,,,2,3,stomach ache,marissa,b,a,f
+4.2.2,4,,,,2,1,bee sting,jessica,b,c,f
+4.2.2,4,,,,2,2,broken arm,chris,b,a,m
+4.2.2,4,,,,2,3,skinned knees,tyler,b,c,m
+4.2.2,4,,,,2,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+4.2.2,4,,,,2,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+4.2.2,4,,,,2,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+4.2.2,4,,,,2,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+5.3.1,5,,,,3,5,skinned knees,rachel,w,a,f
+5.3.1,5,,,,3,0,bruised leg,sydney,w,c,f
+5.3.1,5,,,,3,7,bee sting,david,w,a,m
+5.3.1,5,,,,3,2,splinter,kyle,w,c,m
+5.3.1,5,,,,3,5,paper cut,marissa,b,a,f
+5.3.1,5,,,,3,7,broken arm,jessica,b,c,f
+5.3.1,5,,,,3,4,soup,chris,b,a,m
+5.3.1,5,,,,3,0,stomach ache,tyler,b,c,m
+5.3.1,5,,,,3,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+5.3.1,5,,,,3,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+5.3.1,5,,,,3,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+5.3.1,5,,,,3,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+5.4.1,5,,,,4,0,bee sting,rachel,w,a,f
+5.4.1,5,,,,4,7,stomach ache,sydney,w,c,f
+5.4.1,5,,,,4,6,broken arm,david,w,a,m
+5.4.1,5,,,,4,7,skinned knees,kyle,w,c,m
+5.4.1,5,,,,4,2,splinter,marissa,b,a,f
+5.4.1,5,,,,4,1,soup,jessica,b,c,f
+5.4.1,5,,,,4,5,bruised leg,chris,b,a,m
+5.4.1,5,,,,4,7,paper cut,tyler,b,c,m
+5.4.1,5,,,,4,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+5.4.1,5,,,,4,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+5.4.1,5,,,,4,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+5.4.1,5,,,,4,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+5.5.1,5,,,,5,0,stomach ache,rachel,w,a,f
+5.5.1,5,,,,5,0,soup,sydney,w,c,f
+5.5.1,5,,,,5,0,splinter,david,w,a,m
+5.5.1,5,,,,5,1,bee sting,kyle,w,c,m
+5.5.1,5,,,,5,0,bruised leg,marissa,b,a,f
+5.5.1,5,,,,5,7,skinned knees,jessica,b,c,f
+5.5.1,5,,,,5,1,paper cut,chris,b,a,m
+5.5.1,5,,,,5,7,broken arm,tyler,b,c,m
+5.5.1,5,,,,5,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+5.5.1,5,,,,5,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+5.5.1,5,,,,5,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+5.5.1,5,,,,5,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+5.7.1,5,,,,7,5,broken arm,rachel,w,a,f
+5.7.1,5,,,,7,2,paper cut,sydney,w,c,f
+5.7.1,5,,,,7,3,skinned knees,david,w,a,m
+5.7.1,5,,,,7,3,bruised leg,kyle,w,c,m
+5.7.1,5,,,,7,4,bee sting,marissa,b,a,f
+5.7.1,5,,,,7,2,splinter,jessica,b,c,f
+5.7.1,5,,,,7,3,stomach ache,chris,b,a,m
+5.7.1,5,,,,7,3,soup,tyler,b,c,m
+5.7.1,5,,,,7,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+5.7.1,5,,,,7,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+5.7.1,5,,,,7,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+5.7.1,5,,,,7,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+4.7.1,4,,,,7,7,broken arm,rachel,w,a,f
+4.7.1,4,,,,7,5,paper cut,sydney,w,c,f
+4.7.1,4,,,,7,1,skinned knees,david,w,a,m
+4.7.1,4,,,,7,2,bruised leg,kyle,w,c,m
+4.7.1,4,,,,7,1,bee sting,marissa,b,a,f
+4.7.1,4,,,,7,7,splinter,jessica,b,c,f
+4.7.1,4,,,,7,7,stomach ache,chris,b,a,m
+4.7.1,4,,,,7,7,soup,tyler,b,c,m
+4.7.1,4,,,,7,0,control_draw,ctrl_adam,ctrl_w,ctrl_a,ctrl_m
+4.7.1,4,,,,7,0,control_sleep,ctrl_anthony,ctrl_b,ctrl_c,ctrl_m
+4.7.1,4,,,,7,0,control_grass,ctrl_courtney,ctrl_w,ctrl_c,ctrl_f
+4.7.1,4,,,,7,0,control_book,ctrl_mia,ctrl_b,ctrl_a,ctrl_f
+,,,,,,,,,,,
