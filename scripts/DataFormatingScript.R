@@ -1,5 +1,5 @@
 
-# Manipulating dataset from qualtrics to analyzable data!!!
+# Manipulating dataset from qualtrics to analyzable data
 
 # Source the libraries 
 
@@ -15,7 +15,7 @@ library(tidyr)
 library(stringi)
 library(RColorBrewer)
 install.packages("eeptools")        
-library("eeptools")                 
+library("eeptools")       
 
 # read in the new .csv file from qualtrics
 #   (mine is in a folder titled "data", and I renamed it "painkids52"
@@ -24,9 +24,10 @@ library("eeptools")
 d <- read.csv("data/8 pain kids_September 7, 2022_10.55.csv")
 
 ################################################################################
-####                   Run lines 30 - 524 with new data                     ####
+####                 Source script with most recent data                    ####
 ####  - if any new exclusions outside of normal criteria, make edits to     ####
 ####      exclusions section (around line 74)                               ####
+####  - need to add bdays to all new participants (around line 527)         ####
 ################################################################################
 
 d<- d %>% 
@@ -523,8 +524,7 @@ long_all$rating <- as.numeric(long_all$rating)
   
 cp <- long_all
 
-View(cp)
-
+# adding bdays; only included data
 
 cp <- cp %>%
   mutate(bday= case_when(cp_number == "4.1.1" ~ "2018-01-10", # 4's
