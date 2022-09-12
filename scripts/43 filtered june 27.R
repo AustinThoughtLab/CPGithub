@@ -1,3 +1,7 @@
+###### OLD SCRIPT!!! Just keeping for records #######
+
+
+
 #NONE OFTHIS WORKS YET
 # WHY does it not show numbers?
 #all numbers are NA..........
