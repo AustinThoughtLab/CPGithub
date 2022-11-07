@@ -1,12 +1,5 @@
 # Brooke random
 # ignore this for now, toying with branches
-# hello
-
-# jflksdjflkdsj
-
-# fdksjldfkjs
-
-# dlkfjsldkfj
 
 library(readxl)
 library(tidyverse)
