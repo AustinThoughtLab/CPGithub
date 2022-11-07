@@ -14,14 +14,13 @@ library(dplyr)
 library(tidyr)
 library(stringi)
 library(RColorBrewer)
-install.packages("eeptools")        
-library("eeptools")       
+  
 
 # read in the new .csv file from qualtrics
 #   (mine is in a folder titled "data", and I renamed it "painkids52"
 #   so therefore: read.csv("data/painkids52corrected.csv")
 
-d <- read.csv("data/8 pain kids_September 7, 2022_10.55.csv")
+d <- read.csv("data/8 pain kids_November 1, 2022_18.42.csv")
 
 ################################################################################
 ####                 Source script with most recent data                    ####
@@ -524,6 +523,43 @@ long_all$rating <- as.numeric(long_all$rating)
   
 cp <- long_all
 
+
+
+# n by age group
+
+cpsumm <- cp %>%
+  group_by(cp_age) %>%
+  summarise(
+    n = (n()/8))
+
+cpsumbycond <- cp %>%
+  group_by(condition) %>%
+  summarise(
+    n= (n()/8))
+
+print(cpsumm)
+
+sum(cpsumm$n)
+
+# exclusions
+
+exclusions <- d2 %>%
+  filter(exclude == 1)
+  
+View(exclusions)
+
+
+
+
+
+
+
+
+
+
+###############################################################################
+##                    ONLY RUN IF YOU'VE ADDED ALL BDAYS                     ##
+
 # adding bdays; only included data
 
 cp <- cp %>%
@@ -591,6 +627,9 @@ cp <- cp %>%
 
 # need eeptools package for this to work vvv
 
+install.packages("eeptools")        
+library("eeptools")     
+
 cp <- cp %>% 
   mutate(bday = as.Date(cp$bday, "%Y-%m-%d"))
 
@@ -598,31 +637,13 @@ cp <- cp %>%
   mutate(dot = as.Date(cp$dot, "%Y-%m-%d"))
 
 cp_exact_age <- age_calc(cp$bday,          # Convert birth to age
-                  cp$dot,
-                  units = "years")
+                         cp$dot,
+                         units = "years")
 
 cp <- cp %>%
   mutate(cp_exact_age = cp_exact_age)
 
 View(cp)                          
-
-
-# n by age group
-
-cpsumm <- cp %>%
-  group_by(cp_age) %>%
-  summarise(
-    n = (n()/8))
-
-print(cpsumm)
-
-# exclusions
-
-exclusions <- d2 %>%
-  filter(exclude == 1)
-  
-View(exclusions)
-
 
 
 
