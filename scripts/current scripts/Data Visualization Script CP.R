@@ -437,120 +437,6 @@ nopainsum6$percentage = (percent(nopainsum6$decimal, accuracy = 0.1))
 View(nopainsum6)
 
 
-# 4 vs 4.5?
-
-fours <- cp %>%
-  filter(cp$cp_age == 4)
-
-View(fours)
-
-
-fours <- fours %>%
-  mutate(bday= case_when(cp_number == "4.1.1" ~ "4.5",
-                             cp_number == "4.2.1" ~ "4", # there is no 4.3.1
-                             cp_number == "4.4.1" ~ "4.5",
-                             cp_number == "4.5.1" ~ "4.5",
-                             cp_number == "4.6.1" ~ "4",
-                             cp_number == "4.7.1" ~ "4.5",
-                             cp_number == "4.8.1" ~ "4.5",
-                             cp_number == "4.1.2" ~ "4.5",
-                             cp_number == "4.2.2" ~ "4",
-                             cp_number == "4.3.2" ~ "4",
-                             cp_number == "4.4.2" ~ "4.5",
-                             cp_number == "4.5.2" ~ "4.5",
-                             cp_number == "4.6.2" ~ "4.5",
-                             cp_number == "4.7.2" ~ "4.5",
-                             cp_number == "4.8.2" ~ "4.5",
-                             cp_number == "4.1.3" ~ "4.5",
-                             cp_number == "4.2.3" ~ "4",
-                             cp_number == "4.3.3" ~ "4.5",
-                             cp_number == "4.4.3" ~ "4.5",
-                             cp_number == "4.5.3" ~ "4",
-                             cp_number == "4.6.3" ~ "4.5",
-                             cp_number == "4.7.3" ~ "4",
-                             cp_number == "4.8.3" ~ "4.5",
-                             cp_number == "4.1.4" ~ "4.5",
-                             cp_number == "4.2.4" ~ "4",
-                             cp_number == "4.3.4" ~ "4",
-                             cp_number == "4.4.4" ~ "4"))
-                             
-
-foursum <- fours %>%
-  filter(bday == "4") %>%
-  group_by(injury) %>%
-  summarise(
-    n = n(),
-    mean = mean(rating),
-    sd = sd(rating)
-  )
-
-fourfivesum <-fours %>%
-  filter(bday == "4.5") %>%
-  group_by(injury) %>%
-  summarise(
-    n = n(),
-    mean = mean(rating),
-    sd = sd(rating)
-  )
-
-View(foursum)
-View(fourfivesum)
-
-# useless plots vvv
-
-fourboxplot <- ggplot(fours, aes(x=injury, y=rating)) + 
-  facet_wrap(~bday) +
-  geom_boxplot(aes(fill=factor(injury)))
-
-fourcolplot <- ggplot(fours, aes(x=reorder(injury, rating), y=rating)) + 
-  facet_wrap(~bday) +
-  geom_col(aes(fill=factor(injury)))
-
-
-# more useful plots vv
-
-foursplot <- ggplot(foursum, aes(x=reorder(injury, mean), y=mean)) +
-  geom_col(aes(fill=factor(injury))) +
-  ggtitle("4 year old mean ratings by injury (n=10)") +
-  ylim(0,7) +
-  theme_bw()+
-  theme(axis.text.x = element_text(angle = 30, hjust = 1))
-
-
-four.fiveplot <- ggplot(fourfivesum, aes(x=reorder(injury, mean), y=mean)) +
-  geom_col(aes(fill=factor(injury)))+
-  ggtitle("4.5 year old mean ratings by injury (n=17)") +
-  ylim(0,7) +
-  theme_bw()+
-  theme(axis.text.x = element_text(angle = 30, hjust = 1))
-
-
-grid.arrange(foursplot, four.fiveplot, ncol=2)
-
-# comparing 4 v 4.5 v 5
-
-fivesum <- cp %>%
-  filter(cp_age == 5) %>%
-  group_by(injury) %>%
-  summarise(
-    n = n(),
-    mean = mean(rating),
-    sd = sd(rating)
-  )
-
-fiveplot <- ggplot(fivesum, aes(x=reorder(injury, mean), y=mean)) +
-  geom_col(aes(fill=factor(injury)))+
-  ggtitle("5 year old mean ratings by injury (n=25)") +
-  ylim(0,7) +
-  theme_bw()+
-  theme(axis.text.x = element_text(angle = 30, hjust = 1))
-
-
-
-grid.arrange(foursplot, four.fiveplot, fiveplot, ncol=2, nrow=2)
-
-grid.arrange(foursplot, four.fiveplot, fiveplot, ncol=1, nrow=3)
-
 
 
 # exclusions yes to which control bar graph -> alphabetical so read book and
@@ -632,6 +518,130 @@ cp %>%
 agelm <- lm(data=cp, rating ~ cp_exact_age)
 
 summary(agelm)
+
+
+
+################################################################################
+################################################################################
+## useless 4 v 4.5 stuff....
+
+# 4 vs 4.5?
+
+fours <- cp %>%
+  filter(cp$cp_age == 4)
+
+View(fours)
+
+
+fours <- fours %>%
+  mutate(bday= case_when(cp_number == "4.1.1" ~ "4.5",
+                         cp_number == "4.2.1" ~ "4", # there is no 4.3.1
+                         cp_number == "4.4.1" ~ "4.5",
+                         cp_number == "4.5.1" ~ "4.5",
+                         cp_number == "4.6.1" ~ "4",
+                         cp_number == "4.7.1" ~ "4.5",
+                         cp_number == "4.8.1" ~ "4.5",
+                         cp_number == "4.1.2" ~ "4.5",
+                         cp_number == "4.2.2" ~ "4",
+                         cp_number == "4.3.2" ~ "4",
+                         cp_number == "4.4.2" ~ "4.5",
+                         cp_number == "4.5.2" ~ "4.5",
+                         cp_number == "4.6.2" ~ "4.5",
+                         cp_number == "4.7.2" ~ "4.5",
+                         cp_number == "4.8.2" ~ "4.5",
+                         cp_number == "4.1.3" ~ "4.5",
+                         cp_number == "4.2.3" ~ "4",
+                         cp_number == "4.3.3" ~ "4.5",
+                         cp_number == "4.4.3" ~ "4.5",
+                         cp_number == "4.5.3" ~ "4",
+                         cp_number == "4.6.3" ~ "4.5",
+                         cp_number == "4.7.3" ~ "4",
+                         cp_number == "4.8.3" ~ "4.5",
+                         cp_number == "4.1.4" ~ "4.5",
+                         cp_number == "4.2.4" ~ "4",
+                         cp_number == "4.3.4" ~ "4",
+                         cp_number == "4.4.4" ~ "4"))
+
+
+foursum <- fours %>%
+  filter(bday == "4") %>%
+  group_by(injury) %>%
+  summarise(
+    n = n(),
+    mean = mean(rating),
+    sd = sd(rating)
+  )
+
+fourfivesum <-fours %>%
+  filter(bday == "4.5") %>%
+  group_by(injury) %>%
+  summarise(
+    n = n(),
+    mean = mean(rating),
+    sd = sd(rating)
+  )
+
+View(foursum)
+View(fourfivesum)
+
+# useless plots vvv
+
+fourboxplot <- ggplot(fours, aes(x=injury, y=rating)) + 
+  facet_wrap(~bday) +
+  geom_boxplot(aes(fill=factor(injury)))
+
+fourcolplot <- ggplot(fours, aes(x=reorder(injury, rating), y=rating)) + 
+  facet_wrap(~bday) +
+  geom_col(aes(fill=factor(injury)))
+
+
+# more useful plots vv
+
+foursplot <- ggplot(foursum, aes(x=reorder(injury, mean), y=mean)) +
+  geom_col(aes(fill=factor(injury))) +
+  ggtitle("4 year old mean ratings by injury (n=10)") +
+  ylim(0,7) +
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+
+
+four.fiveplot <- ggplot(fourfivesum, aes(x=reorder(injury, mean), y=mean)) +
+  geom_col(aes(fill=factor(injury)))+
+  ggtitle("4.5 year old mean ratings by injury (n=17)") +
+  ylim(0,7) +
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+
+
+grid.arrange(foursplot, four.fiveplot, ncol=2)
+
+# comparing 4 v 4.5 v 5
+
+fivesum <- cp %>%
+  filter(cp_age == 5) %>%
+  group_by(injury) %>%
+  summarise(
+    n = n(),
+    mean = mean(rating),
+    sd = sd(rating)
+  )
+
+fiveplot <- ggplot(fivesum, aes(x=reorder(injury, mean), y=mean)) +
+  geom_col(aes(fill=factor(injury)))+
+  ggtitle("5 year old mean ratings by injury (n=25)") +
+  ylim(0,7) +
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+
+
+
+grid.arrange(foursplot, four.fiveplot, fiveplot, ncol=2, nrow=2)
+
+grid.arrange(foursplot, four.fiveplot, fiveplot, ncol=1, nrow=3)
+
+
+
+
 
 
 
