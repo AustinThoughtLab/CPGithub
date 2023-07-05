@@ -20,8 +20,6 @@ ad <- read.csv("CP Github/data/adultdata.csv")
 
 cd <- cp
 
-# hello!
-
 View(cd)
 
 adsum <- ad %>%
