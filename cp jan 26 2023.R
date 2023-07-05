@@ -14,7 +14,7 @@ library(gitcreds)
 
 #old path: cp_d <- read.csv("/Users/nicolesteiner/Desktop/research/pain/data collection/CP/data excel/8 pain kids 12.7.22.csv") #on laptop, copy path/different file name. this is lab desktop edits.
 
-cp_d<- read.csv("/Users/nicolesteiner/Desktop/folder/csvjan26cpdata.csv")
+cp_d<- read.csv("CP Github/data/cpdataposter.csv")
 
 colnames(cp_d) #what are columns named now?
 

@@ -7,7 +7,7 @@ library(lmerTest)
 library(car)
 library(gitcreds)
 
-d <- read.csv("16 not 8, adult_September 23, 2022_12.53.csv")
+d <- read.csv("CP Github/data/300 for R 3.22.22.csv")
 colnames(d)
 
 d_ratings <- d[-c(1:2),c(1,6,7,21,26, 27, 29,30:300)] #keep the rows and columns we want

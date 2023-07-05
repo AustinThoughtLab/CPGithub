@@ -25,7 +25,7 @@ ipak(lib)
 
 
 
-d <- read.csv("data/300 for R 3.22.22.csv")
+d <- read.csv("CP Github/data/300 for R 3.22.22.csv")
 
 d <- d %>%
   mutate(subject_ID = as.factor(subject_ID),
@@ -76,7 +76,7 @@ dclean <- d %>%
   mutate(ses = sds/sqrt(counts)) %>%
   mutate(cis = 1.96*ses)
 
-show(f1dsum)
+show(dclean)
 
 
 
@@ -153,7 +153,7 @@ ggplot(d, aes(x=age, y=rating)) +
 
 # plot: male vs female
 
-ggplot(d, aes(x=sex, y=rating)) +
+ggplot(d, aes(x=gender, y=rating)) +
   geom_boxplot()
 
 head(d)
@@ -191,7 +191,7 @@ agemeans <- ggplot(mysum, aes(x=age, y=means)) +
 agemeans
 
 sexsum <- d %>%
-  group_by(sex) %>%
+  group_by(gender) %>%
   summarise(
     counts = n(),
     means = mean(rating),
@@ -199,7 +199,7 @@ sexsum <- d %>%
   mutate(ses = sds/sqrt(counts)) %>%
   mutate(cis = 1.96*ses)
 
-sexmeans <- ggplot(sexsum, aes(x=sex, y=means)) +
+sexmeans <- ggplot(sexsum, aes(x=gender, y=means)) +
   geom_point(size=1) +
   ylim(3,4.5) +
   geom_errorbar(aes(ymin = means - cis, ymax = means + cis), width = 0.6) +

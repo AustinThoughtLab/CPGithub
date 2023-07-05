@@ -11,7 +11,7 @@ library(lmerTest)
 library(car)
 library(gitcreds)
 
-d <- read_excel("data/300 for R 3.22.22.xlsx") #data path, put in whatever yours is
+d <- read.csv("CP Github/data/300 for R 3.22.22.csv") #data path, put in whatever yours is
 
 
 d <- d %>%
